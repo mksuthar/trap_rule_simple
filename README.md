@@ -12,3 +12,5 @@ well its (a,b,n, function in string)
 
 
 Matlab function for trap, very very basic
+
+- Megh
